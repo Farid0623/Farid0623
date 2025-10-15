@@ -111,5 +111,3 @@ Actualmente, me encuentro **abierto a nuevas oportunidades profesionales** donde
 🎥 Streaming y contenido tecnológico en YouTube
 
 ---
-
-> 💬 “El código más limpio es aquel que expresa la idea más claramente.” — *Faridd Martínez*
