@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Faridd%20Martínez%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+</p>
 <!-- Encabezado animado -->
 <!-- Encabezado animado -->
 <p align="center">
