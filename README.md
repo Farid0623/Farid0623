@@ -1,6 +1,7 @@
 <!-- Encabezado animado -->
+<!-- Encabezado animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Faridd+Santiago+Martínez+Sánchez;💻+Desarrollador+Fullstack;⚡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Faridd+Santiago+Martínez+Sánchez;💻+Desarrollador+Fullstack;⚡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
 </p>
 
 <p align="center">
