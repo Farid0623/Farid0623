@@ -103,4 +103,3 @@ Actualmente desarrollo un **sistema de gestión de cartera para una empresa de s
 
 ---
 
-> “El código más limpio es aquel que expresa la idea más claramente.” — *Faridd Martínez*
