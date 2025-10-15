@@ -1,6 +1,7 @@
 <!-- Banner animado superior -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Faridd%20Santiago%20Martínez%20Sánchez%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+</p>
 <!-- Encabezado dinámico -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Faridd+Santiago+Martínez+Sánchez;💻+Desarrollador+Fullstack;🌍+Abierto+a+nuevas+oportunidades+laborales;⚡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
@@ -18,13 +19,17 @@
 Soy **desarrollador Fullstack** y **estudiante de Ingeniería de Software**, con experiencia en la creación de soluciones robustas y escalables usando **Java, Spring Boot, PHP, React y Docker**.  
 Me apasiona el **frontend**, donde aplico **React y Tailwind con shadcn/ui**, y también disfruto diseñar **APIs seguras y eficientes** en el backend.  
 
-📍 Actualmente, me encuentro **desarrollando un sistema de gestión de cartera para una empresa del sector asegurador**, un proyecto que fortalece mis habilidades en:
-- 📊 Automatización de cálculos de vigencias y cuotas.  
-- 💰 Control de pagos, descuentos y estados de cuenta.  
-- ☁️ Migración de servicios hacia entornos en la nube.  
-- 🔐 Seguridad con **JWT y Keycloak**, y despliegue en **Docker**.
+💼 Durante mi experiencia reciente, participé en el desarrollo de un **sistema integral de gestión de cartera para una empresa del sector asegurador**, donde contribuí activamente al diseño e implementación de soluciones orientadas a optimizar procesos financieros y mejorar la eficiencia operativa.
 
-💼 Estoy **abierto a nuevas oportunidades profesionales**, donde pueda seguir creciendo, aprendiendo y aportando valor en proyectos innovadores.
+Entre mis principales aportes destacan:
+- 📊 **Automatización de cálculos** de vigencias, cuotas y recálculos de pagos.  
+- 💰 **Control centralizado** de estados de cuenta, pagos y descuentos.  
+- ☁️ **Preparación de servicios para la migración a la nube**, mejorando la escalabilidad del sistema.  
+- 🔐 **Implementación de seguridad** con *JWT* y *Keycloak*, además de despliegues en contenedores *Docker*.  
+
+Esta experiencia fortaleció mis habilidades técnicas, mi capacidad para trabajar en entornos colaborativos y mi enfoque en desarrollar software confiable, seguro y con impacto real.  
+Actualmente, me encuentro **abierto a nuevas oportunidades profesionales** donde pueda seguir aportando valor y creciendo como desarrollador Fullstack.
+
 
 ---
 
