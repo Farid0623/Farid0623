@@ -1,10 +1,9 @@
+<!-- Banner animado superior -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Faridd%20Santiago%20Martínez%20Sánchez%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<!-- Encabezado dinámico -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Faridd%20Santiago%20Martínez%20Sánchez%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-<!-- Encabezado animado -->
-<!-- Encabezado animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Faridd+Santiago+Martínez+Sánchez;💻+Desarrollador+Fullstack;⚡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Faridd+Santiago+Martínez+Sánchez;💻+Desarrollador+Fullstack;🌍+Abierto+a+nuevas+oportunidades+laborales;⚡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,14 +15,16 @@
 ---
 
 ### 🧠 Sobre mí
-Soy **estudiante de Ingeniería de Software** con experiencia en **desarrollo Fullstack**, trabajando con tecnologías como **PHP, Java, Spring Boot, React y Docker**.  
-Me apasiona el **frontend**, aplicando **React, Tailwind y shadcn/ui**, y disfruto el **backend**, donde implemento **seguridad con Keycloak** y gestiono dependencias con **Gradle**.  
+Soy **desarrollador Fullstack** y **estudiante de Ingeniería de Software**, con experiencia en la creación de soluciones robustas y escalables usando **Java, Spring Boot, PHP, React y Docker**.  
+Me apasiona el **frontend**, donde aplico **React y Tailwind con shadcn/ui**, y también disfruto diseñar **APIs seguras y eficientes** en el backend.  
 
-Actualmente desarrollo un **sistema de gestión de cartera para una empresa de seguros**, enfocado en:
-- 📊 Automatización de cálculos de vigencias y cuotas.
-- 💰 Control de pagos y descuentos.
-- ☁️ Migración a infraestructura en la nube.
-- 🔐 Seguridad y escalabilidad del sistema.
+📍 Actualmente, me encuentro **desarrollando un sistema de gestión de cartera para una empresa del sector asegurador**, un proyecto que fortalece mis habilidades en:
+- 📊 Automatización de cálculos de vigencias y cuotas.  
+- 💰 Control de pagos, descuentos y estados de cuenta.  
+- ☁️ Migración de servicios hacia entornos en la nube.  
+- 🔐 Seguridad con **JWT y Keycloak**, y despliegue en **Docker**.
+
+💼 Estoy **abierto a nuevas oportunidades profesionales**, donde pueda seguir creciendo, aprendiendo y aportando valor en proyectos innovadores.
 
 ---
 
@@ -47,32 +48,32 @@ Actualmente desarrollo un **sistema de gestión de cartera para una empresa de s
 
 ---
 
-### 🚀 Experiencia
+### 🚀 Experiencia profesional
 
 **💼 Caicedo Seguros, Consultoría y Servicios S.A.S (Jun 2025 - Actualidad)**  
-> Desarrollador Fullstack  
-- Implementación de microservicios con **Spring Boot** y **PostgreSQL**.  
-- Integración de contenedores con **Docker** y despliegue en la nube.  
-- Automatización de cálculos de cartera, vigencias y cuotas.  
-- Implementación de seguridad con **JWT y Keycloak**.
+> **Desarrollador Fullstack**  
+- Desarrollo de **microservicios** con *Spring Boot* y *PostgreSQL*.  
+- Integración de contenedores con *Docker* y despliegue en entornos productivos.  
+- Implementación de **módulos de cartera, vigencias, cuotas y reportes**.  
+- Seguridad con *JWT* y *Keycloak*, garantizando integridad de datos y control de acceso.  
 
 **💻 Pide y Listo (Ene 2025 - May 2025)**  
-> Practicante universitario  
-- Participación en el desarrollo de una **plataforma e-commerce** colombiana.  
-- Aplicación de **inteligencia artificial** para optimizar gestión de pedidos y atención al cliente.  
-- Soporte técnico y mejoras al sistema de digitalización de negocios.
+> **Practicante universitario**  
+- Desarrollo de funcionalidades para una **plataforma e-commerce** enfocada en digitalizar negocios locales.  
+- Implementación de herramientas de **inteligencia artificial** para optimizar pedidos y atención al cliente.  
+- Mejora de procesos internos y soporte técnico en la integración de APIs.  
 
 ---
 
 ### 🎓 Formación académica
-- 🎓 **Ingeniería de Software** — CUE *(2023 - Actualidad)*  
-- 🇺🇸 **Inglés B1** — BNC Colombo Americano *(2022 - Actualidad)*  
+- 🎓 **Ingeniería de Software** — *Corporación Universitaria Empresarial Alexander von Humboldt (CUE)* *(2023 - Actualidad)*  
+- 🇺🇸 **Inglés B1** — *BNC Colombo Americano* *(2022 - Actualidad)*  
 
 ---
 
 ### 📂 Proyectos destacados
-- 🛡️ [Sistema de Cartera – Caicedo Seguros](#): Control de cartera, pagos y vigencias de seguros.  
-- 🛒 [Pide y Listo](https://github.com/Farid0623/pideylisto): Plataforma de comercio electrónico con enfoque en negocios locales.  
+- 🛡️ **Sistema de Cartera – Caicedo Seguros:** Control de cartera, pagos y vigencias de seguros.  
+- 🛒 **Pide y Listo:** Plataforma de comercio electrónico con enfoque en digitalización de negocios locales.  
 
 ---
 
@@ -87,13 +88,13 @@ Actualmente desarrollo un **sistema de gestión de cartera para una empresa de s
 ### 🌐 Conéctate conmigo
 <p align="center">
   <a href="mailto:faridsantiago0623@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-faridsantiago0623@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/📧%20Email-faridsantiago0623@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/faridd-santiago-martinez-sanchez-b1146a2b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Faridd_Santiago_Martínez_Sánchez-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Faridd_Santiago_Martínez_Sánchez-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Farid0623">
-    <img src="https://img.shields.io/badge/GitHub-Farid0623-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-Farid0623-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -106,3 +107,4 @@ Actualmente desarrollo un **sistema de gestión de cartera para una empresa de s
 
 ---
 
+> 💬 “El código más limpio es aquel que expresa la idea más claramente.” — *Faridd Martínez*
