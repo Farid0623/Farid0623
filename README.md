@@ -1,35 +1,35 @@
+# Faridd Santiago Martínez Sánchez 🚀
+
 <!-- Banner animado superior -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Faridd%20Santiago%20Martínez%20Sánchez%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img alt="Faridd Santiago Martínez Sánchez - Banner" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Faridd%20Santiago%20Mart%C3%ADnez%20S%C3%A1nchez%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-<!-- Encabezado dinámico -->
+
+<!-- Encabezado de texto (fallback si la animación no carga) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Faridd+Santiago+Martínez+Sánchez;💻+Desarrollador+Fullstack;🌍+Abierto+a+nuevas+oportunidades+laborales;⚡+Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
+  <strong>👋 Hola, soy Faridd Santiago Martínez Sánchez — Desarrollador Fullstack</strong><br/>
+  <em>Abierto a nuevas oportunidades · Apasionado por la tecnología y la innovación</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡%20Innovación-00FFFF?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/⚙️%20Fullstack%20Developer-ff00ff?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/🚀%20Java%20%7C%20React%20%7C%20PHP-00ff88?style=for-the-badge&logoColor=white">
+  <img alt="Innovación badge" src="https://img.shields.io/badge/Innovaci%C3%B3n-00FFFF?style=for-the-badge&logoColor=white" />
+  <img alt="Fullstack badge" src="https://img.shields.io/badge/Fullstack%20Developer-ff00ff?style=for-the-badge&logoColor=white" />
+  <img alt="Stack badge" src="https://img.shields.io/badge/Java%20%7C%20React%20%7C%20PHP-00ff88?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 Sobre mí
-Soy **desarrollador Fullstack** y **estudiante de Ingeniería de Software**, con experiencia en la creación de soluciones robustas y escalables usando **Java, Spring Boot, PHP, React y Docker**.  
-Me apasiona el **frontend**, donde aplico **React y Tailwind con shadcn/ui**, y también disfruto diseñar **APIs seguras y eficientes** en el backend.  
+Soy **desarrollador Fullstack** y **estudiante de Ingeniería de Software**, con experiencia en soluciones escalables usando **Java, Spring Boot, PHP, React y Docker**.  
+Me encanta el **frontend** (React, Tailwind, shadcn/ui) y diseñar **APIs seguras y eficientes** en el backend.
 
-💼 Durante mi experiencia reciente, participé en el desarrollo de un **sistema integral de gestión de cartera para una empresa del sector asegurador**, donde contribuí activamente al diseño e implementación de soluciones orientadas a optimizar procesos financieros y mejorar la eficiencia operativa.
+Durante mi experiencia reciente desarrollé un **sistema integral de gestión de cartera** para una aseguradora, con aportes en:
+- 📊 Automatización de cálculos de vigencias, cuotas y recálculos.
+- 💰 Control centralizado de estados de cuenta, pagos y descuentos.
+- ☁️ Preparación de servicios para migración a la nube.
+- 🔐 Implementación de seguridad (JWT, Keycloak) y despliegues con Docker.
 
-Entre mis principales aportes destacan:
-- 📊 **Automatización de cálculos** de vigencias, cuotas y recálculos de pagos.  
-- 💰 **Control centralizado** de estados de cuenta, pagos y descuentos.  
-- ☁️ **Preparación de servicios para la migración a la nube**, mejorando la escalabilidad del sistema.  
-- 🔐 **Implementación de seguridad** con *JWT* y *Keycloak*, además de despliegues en contenedores *Docker*.  
-
-Esta experiencia fortaleció mis habilidades técnicas, mi capacidad para trabajar en entornos colaborativos y mi enfoque en desarrollar software confiable, seguro y con impacto real.  
-Actualmente, me encuentro **abierto a nuevas oportunidades profesionales** donde pueda seguir aportando valor y creciendo como desarrollador Fullstack.
-
+Actualmente estoy abierto a nuevas oportunidades para seguir aportando y creciendo como Fullstack.
 
 ---
 
@@ -55,59 +55,57 @@ Actualmente, me encuentro **abierto a nuevas oportunidades profesionales** donde
 
 ### 🚀 Experiencia profesional
 
-**💼 Caicedo Seguros, Consultoría y Servicios S.A.S (Jun 2025 - Actualidad)**  
-> **Desarrollador Fullstack**  
-- Desarrollo de **microservicios** con *Spring Boot* y *PostgreSQL*.  
-- Integración de contenedores con *Docker* y despliegue en entornos productivos.  
-- Implementación de **módulos de cartera, vigencias, cuotas y reportes**.  
-- Seguridad con *JWT* y *Keycloak*, garantizando integridad de datos y control de acceso.  
+**Caicedo Seguros, Consultoría y Servicios S.A.S** (Jun 2025 - Actualidad)  
+Desarrollador Fullstack  
+- Microservicios con Spring Boot y PostgreSQL.  
+- Contenerización con Docker y despliegue en entornos productivos.  
+- Módulos de cartera, vigencias, cuotas y reportes.  
+- Seguridad con JWT y Keycloak.
 
-**💻 Pide y Listo (Ene 2025 - May 2025)**  
-> **Practicante universitario**  
-- Desarrollo de funcionalidades para una **plataforma e-commerce** enfocada en digitalizar negocios locales.  
-- Implementación de herramientas de **inteligencia artificial** para optimizar pedidos y atención al cliente.  
-- Mejora de procesos internos y soporte técnico en la integración de APIs.  
+**Pide y Listo** (Ene 2025 - May 2025)  
+Practicante universitario  
+- Funcionalidades para plataforma e-commerce.  
+- Integración de herramientas de IA para optimizar pedidos y atención.  
+- Integración y soporte de APIs.
 
 ---
 
-### 🎓 Formación académica
-- 🎓 **Ingeniería de Software** — *Corporación Universitaria Empresarial Alexander von Humboldt (CUE)* *(2023 - Actualidad)*  
-- 🇺🇸 **Inglés B1** — *BNC Colombo Americano* *(2022 - Actualidad)*  
+### 🎓 Formación
+- Ingeniería de Software — Corporación Universitaria Empresarial Alexander von Humboldt (CUE) (2023 - Actualidad)  
+- Inglés B1 — BNC Colombo Americano (2022 - Actualidad)
 
 ---
 
 ### 📂 Proyectos destacados
-- 🛡️ **Sistema de Cartera – Caicedo Seguros:** Control de cartera, pagos y vigencias de seguros.  
-- 🛒 **Pide y Listo:** Plataforma de comercio electrónico con enfoque en digitalización de negocios locales.  
+- Sistema de Cartera – Caicedo Seguros: control de cartera, pagos y vigencias.  
+- Pide y Listo: plataforma de comercio electrónico para digitalizar negocios locales.
 
 ---
 
 ### 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farid0623&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid0623&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <!-- Si estas tarjetas no cargan, verifica que tu usuario 'Farid0623' esté escrito exactamente como en GitHub -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Farid0623&show_icons=true&theme=tokyonight" height="160" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid0623&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ### 🌐 Conéctate conmigo
 <p align="center">
-  <a href="mailto:faridsantiago0623@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-faridsantiago0623@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/faridd-santiago-martinez-sanchez-b1146a2b1/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Faridd_Santiago_Martínez_Sánchez-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Farid0623">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-Farid0623-181717?style=for-the-badge&logo=github">
-  </a>
+  <a href="mailto:faridsantiago0623@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faridsantiago0623@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faridd-santiago-martinez-sanchez-b1146a2b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faridd_Santiago_Mart%C3%ADnez_S%C3%A1nchez-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Farid0623"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Farid0623-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 ### 🕹️ Hobbies
-🎮 Videojuegos  
-🧩 Programar  
-🎥 Streaming y contenido tecnológico en YouTube
+- Videojuegos  
+- Programar  
+- Streaming y contenido tecnológico en YouTube
 
----
+
+- O abrir un PR con este README en tu repo — dime el repo (owner/name) y confirmo que lo cree.
+
+¡Dime cómo quieres proceder y lo hago!  
