@@ -80,13 +80,6 @@ Actualmente, me encuentro **abierto a nuevas oportunidades profesionales** donde
 - 🛡️ **Sistema de Cartera – Caicedo Seguros:** Control de cartera, pagos y vigencias de seguros.  
 - 🛒 **Pide y Listo:** Plataforma de comercio electrónico con enfoque en digitalización de negocios locales.  
 
----
-
-### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farid0623&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid0623&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
